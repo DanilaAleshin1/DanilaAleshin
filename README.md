@@ -49,5 +49,5 @@
 | Курсы|Сертификат|Дата|
 |---|---|---|
 | stepik.org/Интерактивный тренажер по SQL                   | <https://stepik.org/cert/2352997> | 2024 |
-| karpov.courses/Симулятор SQL                              |(В процессе)| |
-| karpov.courses/Основы Python                              |(В процессе)| |
+| karpov.courses/Симулятор SQL                              |2024| |
+| karpov.courses/Основы Python                              |2024| |
